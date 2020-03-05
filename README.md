@@ -9,4 +9,4 @@ a principal biblioteca de uso é o SciKit Learn onde é visto:
 - [x] Árvores de decisão
 - [x] Florestas aleatórias
 - [x] Suporte Máquinas Vector
-- [ ] Processamento de linguagem natural
+- [X] Processamento de linguagem natural
